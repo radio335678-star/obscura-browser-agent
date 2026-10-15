@@ -1,0 +1,8 @@
+# Environment & secrets
+.env
+.env.local
+*.log
+
+# Windows temp
+Thumbs.db
+Desktop.ini
